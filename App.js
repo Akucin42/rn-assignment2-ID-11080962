@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View style={{ backgroundColor: '#00f' }}>
+    <View style={{ backgroundColor: 'BLUE' }}>
       <Text style={{ fontSize: 24 }}>
         My name is <Text style={{ fontWeight: 'bold' }}>OMARI CINDY</Text>
       </Text>
